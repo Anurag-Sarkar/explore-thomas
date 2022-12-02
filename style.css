@@ -66,3 +66,31 @@ html,body {
     display: flex;
     justify-content: space-around;
 }
+
+.ri-search-line {
+    padding-left: 60px;
+}
+
+.pageno {
+    display: flex;
+    color: white;
+    position: absolute;
+    bottom: 10%;
+    left: 5%;
+}
+
+.number {
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+
+.social {
+    color: white;
+    position: absolute;
+    bottom: 10%;
+    right: 5%;
+    display: flex;
+    justify-content: space-between;
+    width: 10%;
+}
